@@ -1,0 +1,4 @@
+@use 'custombase';
+
+@include custombase.general-styles();
+@include custombase.native-input-styles();
